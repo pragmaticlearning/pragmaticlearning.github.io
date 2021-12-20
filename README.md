@@ -1,2 +1,2 @@
 # pragmaticlearning.github.io
-An organization GitHub Pages site
+Um organização usando o GitHubPages
