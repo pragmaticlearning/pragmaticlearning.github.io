@@ -1,2 +1,3 @@
 # pragmaticlearning.github.io
-An organization GitHub Pages site
+I have a new idea!
+
